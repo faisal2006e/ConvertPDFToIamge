@@ -1,0 +1,10 @@
+*.Cache
+*.dll
+*.exe
+*.pdb
+*.xml
+*.txt
+*/obj/
+bin
+obj
+packages
