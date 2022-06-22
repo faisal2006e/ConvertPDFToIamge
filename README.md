@@ -1,4 +1,4 @@
-# ConvertPDFToIamge
+# Convert PDF To Image
  
 Project: PdfToImage
 File Name: PDFConvert.cs
